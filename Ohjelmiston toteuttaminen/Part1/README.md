@@ -13,8 +13,6 @@ KOTITEHTÄVÄ
 Lämpötilamuunnin
 KOTITEHTÄVÄ
 
-
-
 Lämpötilat
 KOTITEHTÄVÄ
 
